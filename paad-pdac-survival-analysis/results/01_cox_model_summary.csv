@@ -1,0 +1,8 @@
+covariate,coef,exp(coef),exp(coef) lower 95%,exp(coef) upper 95%,p
+Diagnosis Age,0.0156,1.0157,0.9955,1.0363,0.1285
+TMB (nonsynonymous),0.0002,1.0002,0.9961,1.0044,0.9138
+Fraction Genome Altered,-2.241,0.1064,0.024,0.4704,0.0031
+Buffa Hypoxia Score,0.0245,1.0249,1.0126,1.0372,0.0001
+StageGroup_II,0.588,1.8004,0.8266,3.9213,0.1387
+StageGroup_III/IV,0.0091,1.0091,0.2585,3.9398,0.9895
+Sex_Male,-0.1237,0.8836,0.58,1.3462,0.5646
