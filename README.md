@@ -49,7 +49,7 @@ AJCC stage itself wasn't independently significant once hypoxia was in the model
 Unexpectedly, FGA came out with a *protective* hazard ratio (HR 0.11, p = 0.003), the
 opposite of what genomic instability biology would predict.
 
-**Flag:** I didn't take the FGA result at face value. A counterintuitive coefficient in
+**Note:** I didn't take the FGA result at face value. A counterintuitive coefficient in
 a multivariate model is a classic sign of collinearity between predictors, and FGA was
 a natural candidate to double-check against a method that doesn't assume any linear
 structure.
