@@ -68,7 +68,7 @@ feature set and sample size, the extra flexibility of a forest just doesn't tran
 into better discrimination. Permutation importance ranked FGA, MSIsensor score, and age
 as the top predictors, with AJCC stage contributing almost nothing.
 
-### Phase 3: Unsupervised discovery (and resolving the Phase 1 puzzle)
+### Phase 3: Unsupervised discovery
 
 I clustered patients on genomic burden and hypoxia features alone, giving the algorithm
 no survival information at all, to see whether natural molecular subgroups exist and
